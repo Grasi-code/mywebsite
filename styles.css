@@ -31,3 +31,13 @@ body {
 .carousel-caption {
     text-shadow: 5px 3px 5px rgb(13, 37, 146) ;
 }
+
+.icon-links {
+    font-size: 48px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.icon-links a:hover {
+    color: magenta;
+}
