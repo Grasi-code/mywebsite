@@ -1,0 +1,33 @@
+body {
+    background-image: url("https://image.redbull.com/rbcom/010/2016-04-08/1331787492680_8/0012/0/0/173/3456/2938/1150/1/gwin-puts-the-yt-tues-through-its-paces-in-socal.jpg");
+
+    background-repeat: repeat-x;
+    background-size: cover;
+  
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    min-height: 100vh;
+    margin: 0;
+}
+
+.page {
+    margin-right: 10vw;
+    margin-left: 10vw;
+    background-color: rgba(255, 255, 255, 0.85);
+    padding: 20px;
+    min-width: 200px;
+}
+
+.my-background
+{
+    background-color: rgba(255, 255, 255, 0.85)
+}
+
+#carouselExampleCaptions {
+    width: 50%;
+    display: inline-block;
+}
+
+.carousel-caption {
+    text-shadow: 5px 3px 5px rgb(13, 37, 146) ;
+}
