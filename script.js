@@ -50,10 +50,10 @@
             possibleEmoji = ["🚗","🚋","🚞","✈️"]
         })
         jQuery(".cursor-effect-snow").mouseenter(function() {
-            possibleEmoji = ["❄️","☃️","🏂","🏔️"]
+            possibleEmoji = ["🏋️‍♂️","🏂🏼","🚵","🤿"]
         })
         jQuery(".cursor-effect-velo").mouseenter(function() {
-            possibleEmoji = ["🚵‍♂️","🚴‍♂️","⛰️","🚠"]
+            possibleEmoji = ["💻","👩‍💻","🤖","⌨️"]
         })
     })
    
