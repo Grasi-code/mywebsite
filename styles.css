@@ -1,5 +1,5 @@
 body {
-    background-image: url("\\ss002207\TAASTALO$\Documents\GitHub\mywebsite\img\SC_TeamsHintergrund-08.jpg");
+    background-image: url("SC_TeamsHintergrund-08.jpg");
 
     background-repeat: repeat-x;
     background-size: cover;
@@ -20,7 +20,7 @@ body {
 
 .my-background
 {
-    background-color: #FFFFFF
+    background-color:  #474747
 }
 
 #carouselExampleCaptions {
