@@ -1,5 +1,5 @@
 body {
-    background-image: url("SC_TeamsHintergrund-08.jpg");
+    background-image: url(SC_TeamsHintergrund-08.jpg) blue;
 
     background-repeat: repeat-x;
     background-size: cover;
@@ -20,7 +20,7 @@ body {
 
 .my-background
 {
-    background-color:  #474747
+    background-color:   #EEF3F6
 }
 
 #carouselExampleCaptions {
